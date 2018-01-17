@@ -1,1 +1,1 @@
-This project is a full Blackjack game coded in Python 2.7. In order to run the game, please run the blackjack_main.py file in a Python 2.7 IDE.
+This project is a full Blackjack game coded in Python 2.7. In order to run the game, please run the blackjack_main.py file in a Python 2.7 IDE like the one that can be found here: http://ftp.heanet.ie/pub/portablepython/v2.7/PortablePython_2.7.6.1.exe
